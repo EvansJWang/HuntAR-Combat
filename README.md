@@ -12,3 +12,5 @@ The Character managment screen written in React native will update the database 
 player's stats in the game.
 
 See Solution 3:
+
+![alt text](HuntAR-Combat/Solution 3.png)
