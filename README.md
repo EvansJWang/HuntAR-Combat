@@ -13,4 +13,4 @@ player's stats in the game.
 
 See Solution 3:
 
-```![alt text](HuntAR-Combat/Solution 3.png)```
+![alt text](https://github.com/EvansJWang/HuntAR-Combat/blob/master/Solution%203.png)
